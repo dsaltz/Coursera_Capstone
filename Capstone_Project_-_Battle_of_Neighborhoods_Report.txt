@@ -1,0 +1,16 @@
+Introduction: For this project, I decided to look into Philadelphia and the Chinese restaurants within it. By looking at the distribution of Chinese restaurants, I can glean the places that anyone looking to open up a new Chinese restaurant would be getting competition, and where it would most likely be appreciated. This research would greatly help anyone looking to build a Chinese restaurant within Philadelphia, and would provide them important information to keep in mind all throughout the decision making process.
+
+
+Data: To complete this project, I used Foursquare’s location data to determine the closest Chinese restaurants and Chinese food trucks. When I first gathered the data, I noticed that Chinese restaurants and Chinese food trucks were both appearing when searching for Chinese institutions, and I believed these should be separated into distinct tables. This was because areas that had food trucks did not necessarily mean it does not need a full fledged restaurant at the same location, and I do not believe the two to be in large conflict over customer bases.
+
+
+Methodology: 
+
+
+Results: 
+
+
+Discussion: 
+
+
+Conclusion: 
